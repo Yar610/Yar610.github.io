@@ -1,5 +1,3 @@
-# Yar610.github.io
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Hirana Miner</title>
